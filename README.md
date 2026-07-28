@@ -1,6 +1,6 @@
 # Sistema de Comandas para Restaurante
 
-Um sistema de gerenciamento de comandas e pedidos desenvolvido em **Java**, focado em simplicidade e eficiência para pequenos estabelecimentos.
+Um sistema de gerenciamento de comandas e pedidos desenvolvido em **Java**, focado em simplicidade e eficiência para pequenos estabelecimentos
 
 ## 📋 Sobre o Projeto
 Este projeto é uma aplicação Desktop que permite o controle de mesas, comandas individuais e cardápio. Foi desenvolvido para reforçar conceitos de Programação Orientada a Objetos (POO), manipulação de estruturas de dados e construção de interfaces gráficas.
